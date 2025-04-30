@@ -1,2 +1,7 @@
 test1.txt
 test 
+
+To add new file into Git
+
+Insert -> git add file.txt -> git commit -m "xxx" -> git push origin main
+
